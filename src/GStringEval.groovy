@@ -20,3 +20,5 @@ String string = "${list}" // => GStringからStringへのキャストが発生�
 println(string) // => [a]
 list.add("b")
 println(string) // => [a] 文字列評価済みなのでbは入らない
+
+//https://ideone.com/u5sxMu

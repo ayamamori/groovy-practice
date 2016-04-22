@@ -25,3 +25,4 @@ import java.util.stream.IntStream
 //Javaだとカリー化できない
 
 
+//https://ideone.com/Pnvidt
